@@ -85,6 +85,3 @@ The model uses the following features:
 
 Dataset used: Heart Disease UCI Dataset - https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci
 
-**📌 License**
-
-This project is licensed under the MIT License.
