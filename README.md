@@ -3,6 +3,11 @@
 
 This project is a machine learning-powered web application that predicts the presence of heart disease based on various medical attributes. It leverages trained models and a user-friendly interface to assist in preliminary diagnosis.
 
+## 🖥️ Web App Preview
+
+![Heart Disease Prediction Web App](Site.jpg)
+
+
 **🚀 Features**
 
 - Input form for medical data
